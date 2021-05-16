@@ -1,0 +1,11 @@
+bot:
+   token: ""
+
+   owners: [""]
+
+server:
+   voiceChannel: "832363982207320094"
+   tagliAlim: "https://cdn.discordapp.com/attachments/791474321432192779806/833172682399809596/kekw2.mp3"
+   toplantı: "https://cdn.discordapp.com/attachments/791474321324192779806/833172682399809596/kekw2.mp3"
+   yetkiliGiris: "https://cdn.discordapp.com/attachments/7914743212343292779806/815665947129937941/yetkiligeldi.mp3"
+   register: "828877319732199425"
